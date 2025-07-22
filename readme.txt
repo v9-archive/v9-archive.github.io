@@ -1,0 +1,3 @@
+v9-archive
+
+Amit Kalra is an artist working in video, sound and sculpture. His practice engages performative systems and institutional grammars, examining how symbolic structures operate across opacity and aesthetic legibility. He often attends to moments designed to pass unnoticed. Kalra holds a graduate degree from the Royal College of Art and teaches in the MFA Communications Design program at Pratt Institute.
