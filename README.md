@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **v9-archive/v9-archive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
