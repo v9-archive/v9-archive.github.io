@@ -4,15 +4,23 @@
   <meta charset="UTF-8">
   <title>v9-archive</title>
   <style>
-    body {
+    html, body {
+      margin: 0;
+      padding: 0;
       background-color: #000000;
       color: #ffffff;
-      font-family: Courier, monospace;
+      font-family: system-ui, sans-serif;
       font-size: 16px;
       line-height: 1.6;
-      margin: 3rem auto;
-      max-width: 600px;
-      padding: 0 1rem;
+      height: 100vh;
+      display: flex;
+      justify-content: flex-end;
+      align-items: flex-start;
+    }
+    .container {
+      max-width: 320px;
+      padding: 2rem;
+      text-align: left;
     }
     a {
       color: #ffffff;
@@ -21,7 +29,9 @@
   </style>
 </head>
 <body>
-  <p>Amit Kalra is an artist working in video, sound and sculpture. His practice engages performative systems and institutional grammars, examining how symbolic structures operate across opacity and aesthetic legibility. He often attends to moments designed to pass unnoticed. Kalra holds a graduate degree from the Royal College of Art and teaches in the MFA Communications Design program at Pratt Institute.</p>
-  <p>Contact: ak (at) amitkalra (dot) xyz</p>
+  <div class="container">
+    <p>Amit Kalra is an artist working in video, sound and sculpture. His practice engages performative systems and institutional grammars, examining how symbolic structures operate across opacity and aesthetic legibility. He often attends to moments designed to pass unnoticed. Kalra holds a graduate degree from the Royal College of Art and teaches in the MFA Communications Design program at Pratt Institute.</p>
+    <p>Contact: ak (at) amitkalra (dot) xyz</p>
+  </div>
 </body>
 </html>
